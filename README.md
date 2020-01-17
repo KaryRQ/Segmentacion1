@@ -33,8 +33,9 @@ En base a análisis previos otorgados por parte de un proveedor y organizando to
 
 ## APP NEGOCIOS
 
-El equipo de CX tuvimos un acercamiento con el área correspondiente para realizar una propuesta de app ,al analizar sus requerimientos comenzamos a trabajar en la estrategia parala realización de dicha app donde pudimos recopilar información que nos ayudó a generar; personas, journey maps, arquitectura de información, etc.
+El equipo de CX tuvimos un acercamiento con el área correspondiente para realizar una propuesta de app ,al analizar sus requerimientos comenzamos a trabajar en la estrategia parala realización de dicha app donde pudimos recopilar información que nos ayudó a generar: personas, journey maps, arquitectura de información, etc.
 
 ![app negocios](./assets/images/negocios2.png)
 ![app negocios](./assets/images/negocios3.png)
+ARQUITECTURA DE INFORMACIÓN
 ![app negocios](./assets/images/negocios1.png)
