@@ -1,6 +1,6 @@
 # Totalplay
 
-## HEURISTICAS
+## HEURÍSTICAS 
 
 Se realizan diferentes análisis heurísticos de diversos materiales como lo son página  web y la aplicación.
 
