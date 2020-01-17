@@ -32,7 +32,7 @@ En base al análisis previo otorgado por parte de un proveedor y organizando tod
 
 ## APP NEGOCIOS
 
-El equipo de CX tiene un acercamiento con el área correspondiente para realizar una propuesta de app ,al analizar sus requerimientos se comienza a trabajar en la estrategia para la realización de dicha app donde se recopila información que nos ayuda a generar: personas, journey maps, arquitectura de información, etc.
+El equipo de CX tiene un acercamiento con el área correspondiente para realizar una propuesta de app. Al analizar sus requerimientos se comienza a trabajar en la estrategia para la realización de dicha app donde se recopila información que nos ayuda a generar: personas, journey maps, arquitectura de información, etc.
 
 ![app negocios](./assets/images/negocios2.png)
 ![app negocios](./assets/images/negocios3.png)
